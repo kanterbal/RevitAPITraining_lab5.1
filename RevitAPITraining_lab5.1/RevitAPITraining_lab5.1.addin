@@ -2,7 +2,9 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab5.1.dll"</Assembly>		
-		<AddInId>D191CD71-8DFE-4719-82FA-8614E5976678</AddInId>
+		<AddInId>
+			48F423A4-18A6-49EB-A842-4FAFE963C5D3
+		</AddInId>
 		<FullClassName>RevitAPITraining_lab5._1.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Задание 5.1 создание кнопок</Text>
